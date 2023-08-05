@@ -34,7 +34,7 @@ translate turkish b1c01s02_73c7a96d:
 translate turkish b1c01s02_1cb54563:
 
     # sm "This is our entrance hall. It's usually pretty busy here, but over there is the front desk."
-    sm "Burası bizim giriş salonumuz. Burada genellikle oldukça meşgul olur ama resepsiyon şurada"
+    sm "Burası bizim giriş salonumuz. Burası genellikle oldukça meşgul olur ama resepsiyon şurada"
 
 # game/code/Book-1/Chapter-1/s02.rpy:27
 translate turkish b1c01s02_91c56b3b:
@@ -124,7 +124,7 @@ translate turkish b1c01s02_e665b6da:
 translate turkish b1c01s02_d41341a7:
 
     # sm "I think one of my favorite things about this place is the history."
-    sm "Sanırım bu yer hakkında en sevdiğim şeylerden biri tarih,."
+    sm "Sanırım bu yer hakkında en sevdiğim şeylerden biri tarih."
 
 # game/code/Book-1/Chapter-1/s02.rpy:75
 translate turkish b1c01s02_7d010a14:
