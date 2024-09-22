@@ -188,7 +188,7 @@ translate turkish b1c08ws10_b94141a7:
 translate turkish b1c08ws10_85ee7c1a:
 
     # sm "Brigitta, {i}{b}enough{/b}{/i}."
-    sm "Brigitta, {i}{b}enough{/b}{/i}."
+    sm "Brigitta, {i}{b}yeter{/b}{/i}."
 
 # game/code/Book-1/Chapter-8w/s10.rpy:91
 translate turkish b1c08ws10_000a975d:
