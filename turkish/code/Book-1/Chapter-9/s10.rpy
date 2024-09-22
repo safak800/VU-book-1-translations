@@ -254,7 +254,7 @@ translate turkish replay_b1c09s10_eacf912b:
 translate turkish replay_b1c09s10_28ec9ff6:
 
     # ima "We're just flustered sluts, that's all."
-    ima "We're just flustered sluts, that's all."
+    ima "Biz sadece telaşlı sürtükleriz, hepsi bu."
 
 # game/code/Book-1/Chapter-9/s10.rpy:261
 translate turkish replay_b1c09s10_38e90fe9:
@@ -278,7 +278,7 @@ translate turkish replay_b1c09s10_12e76bd5:
 translate turkish replay_b1c09s10_b24040ab:
 
     # ir "Fuck yeah!"
-    ir "Siktir Evet!"
+    ir "Sadece sikilmek için can atan ıslak bir sürtük."
 
 # game/code/Book-1/Chapter-9/s10.rpy:281
 translate turkish replay_b1c09s10_aa3c88de:
